@@ -1,0 +1,19 @@
+{
+  "name": "ip-checker-api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ip",
+    "checker",
+    "api"
+  ],
+  "author": "Humberto Piaia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
